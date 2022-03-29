@@ -1,0 +1,3 @@
+class GameController extends Controller {
+	
+}
